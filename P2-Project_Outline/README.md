@@ -18,7 +18,7 @@ Having these items documented and recorded for tax purposes and personal use wou
  
 -User Login: Users will be able to create accounts and log in to the application. Each with a profile page.
 -Search: Users will be able to search for dates they have worked with the coresponding data. 
--Create Shift Tracker: Users will be able to create a new tracker for each shift they work.
+-Create Shift Tracker: Users will be able to create a new tracker to monitor hours, tips, and milieage for each shift they work.
 -View Tip History: View tip history and average tips 
 
 ### Technologies
